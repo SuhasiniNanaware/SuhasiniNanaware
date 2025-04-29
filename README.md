@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software & mobile app development student from MIT ADT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+App+Developer;Front-End+Web+Developer;Lover+of+K-Drama+Vibes+%F0%9F%8C%9E&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+App+Developer;Front-End+Web+Developer;Lover+of+K-Drama+Vibes+Ieas%F0%9F%8C%9E&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Android with Java/Kotlin**, HTML/CSS/JS, and Git
 - 💡 Exploring **UI/UX design**, building personal projects, and leveling up every day!
 - 🎯 Goal: Become a skilled developer with a strong creative portfolio
-- 🎨 Creating apps/websites with aesthetic, K-drama-inspired vibes
+- 🎨 Creating apps/websites with aesthetic, K-drama-inspired & real life vibes
 
 ---
 
