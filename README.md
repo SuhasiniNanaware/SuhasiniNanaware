@@ -18,7 +18,7 @@
 ### 📫 How to reach me:
 - 📧 Email: `suhasininanaware@email.com`
 - 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)
-- 📸 Instagram (for aesthetics): [@diary.of.skylove](https://instagram.com/diary.of.skylove)
+- 📸 Instagram (for aesthetics): [@ethereal.skylove](https://instagram.com/ethereal.skylove)
 
 ---
 
