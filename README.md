@@ -1,5 +1,6 @@
 
 💫 About Me:<br><h1 align="center">Hi 👋, I'm Suhasini Nanaware</h1>
+🎓 B.Tech Student | MIT ADT University, Pune
 <h3 align="center">💻 Software & Mobile App Development Student | 📱 Android Developer in Progress | 🎨 Aesthetic Creator</h3>
 
 🌱 I’m currently learning Android with Java/Kotlin, HTML/CSS/JS, and Git<br>💡 Exploring UI/UX design, building personal projects, and leveling up every day!<br>🎯 Goal: Become a skilled developer with a strong creative portfolio<br>🎨 Creating apps/websites with aesthetic, K-drama-inspired & real life vibes
