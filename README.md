@@ -1,52 +1,21 @@
-<h1 align="center">Hi 👋, I'm Suhasini Nanaware</h1>
-<h3 align="center">A passionate software & mobile app development student from MIT ADT</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+App+Developer;Front-End+Web+Developer;Lover+of+K-Drama+Vibes+Ieas%F0%9F%8C%9E&center=true&width=500&height=45" />
-</p>
+💫 About Me:<br><h1 align="center">Hi 👋, I'm Suhasini Nanaware</h1>
+<h3 align="center">💻 Software & Mobile App Development Student | 📱 Android Developer in Progress | 🎨 Aesthetic Creator</h3>
 
----
+🌱 I’m currently learning Android with Java/Kotlin, HTML/CSS/JS, and Git<br>💡 Exploring UI/UX design, building personal projects, and leveling up every day!<br>🎯 Goal: Become a skilled developer with a strong creative portfolio<br>🎨 Creating apps/websites with aesthetic, K-drama-inspired & real life vibes
 
-### 💫 About Me:
-- 🌱 I’m currently learning **Android with Java/Kotlin**, HTML/CSS/JS, and Git
-- 💡 Exploring **UI/UX design**, building personal projects, and leveling up every day!
-- 🎯 Goal: Become a skilled developer with a strong creative portfolio
-- 🎨 Creating apps/websites with aesthetic, K-drama-inspired & real life vibes
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SuhasiniNanaware&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SuhasiniNanaware&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniNanaware&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📫 How to reach me:
-- 📧 Email: `suhasininanaware@email.com`
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)
-- 📸 Instagram (for aesthetics): [@ethereal.skylove](https://instagram.com/ethereal.skylove)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SuhasiniNanaware&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SuhasiniNanaware&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Languages & Tools:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### ✨ Fun Facts:
-- ✨ I love pastel colors and K-pop themes in design!
-- 💭 Currently planning a **ribbon bouquet business** with a matching app & website
-- 🧠 I believe coding + creativity = 💖
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhasiniNanaware&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasiniNanaware&layout=compact&theme=radical" width="300">
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
