@@ -2,16 +2,16 @@
 <h3 align="center">💻 Software & Mobile App Dev Student | 📱 Android Dev in Progress | 🎨 Aesthetic Web & App Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Aspiring+Android+Developer;Creative+Web+Designer;K-Drama+Inspired+Tech+Projects;Building+My+Dream+One+Line+of+Code+at+a+Time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Aspiring+Android+Developer;Creative+Web+Designer;+Tech+Projects;Building+My+Dream+One+Line+of+Code+at+a+Time!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 - 🎓 B.Tech Software & Mobile App Development @ MIT ADT University, Loni Kalbhor
-- 🌱 Currently learning **Android Development (Java & Kotlin)** and **Full Stack Web Development (HTML, CSS, JavaScript)** and GitHub
-- 🎨 Passionate about building functional and user-friendly applications |Aesthetic, K-drama-inspired and real-life-useful projects
-- ✨ Interested in UI/UX design and front-end development with a creative touch
+- 🌱 Currently learning **Android Development** and **Full Stack Web Development** 
+- 🎨 Passionate about building functional and user-friendly applications |Aesthetic, K-drama-inspired and Real-life-useful projects
+- ✨ Interested in UI/UX design and Front-end Development with a creative touch
 - 📌 Career Goal: To become a proficient software developer with a strong project portfolio and industry experience
 ---
 
