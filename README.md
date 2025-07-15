@@ -11,6 +11,7 @@
 - 🎓 B.Tech Software & Mobile App Development @ MIT ADT University, Loni Kalbhor
 - 🌱 Currently learning **Android Development** and **Full Stack Web Development** 
 - 🎨 Passionate about building functional and user-friendly applications |Aesthetic, K-drama-inspired and Real-life-useful projects
+- 🏯 Passionate about Japanese culture Dream of working and living in **Japan** someday
 - ✨ Interested in UI/UX design and Front-end Development with a creative touch
 - 📌 Career Goal: To become a proficient software developer with a strong project portfolio and industry experience
 ---
