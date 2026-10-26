@@ -1,1 +1,43 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Suhasini Nanaware — Full-Stack Developer</title>
+  <desc id="desc">A midnight burgundy developer banner with rose gradients, technical grid lines, and subtle animated light.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10070C"/>
+      <stop offset="55%" stop-color="#190B12"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#C77B9B" stop-opacity=".7"/>
+      <stop offset="100%" stop-color="#E5B5C7" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#E5B5C7" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#C77B9B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="80" rx="330" ry="240" fill="url(#glow)"/>
+  <circle cx="1030" cy="180" r="118" fill="none" stroke="#C77B9B" stroke-opacity=".24"/>
+  <circle cx="1030" cy="180" r="88" fill="none" stroke="#E5B5C7" stroke-opacity=".17" stroke-dasharray="3 10">
+    <animateTransform attributeName="transform" type="rotate" from="0 1030 180" to="360 1030 180" dur="55s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M850 245 C920 95 1030 280 1170 95" fill="none" stroke="url(#shine)" stroke-width="2.5"/>
+  <path d="M0 306 C250 280 400 330 650 300 S1000 280 1200 305" fill="none" stroke="#C77B9B" stroke-opacity=".22"/>
+  <rect x="70" y="58" width="5" height="236" rx="2.5" fill="#C77B9B"/>
+  <text x="104" y="111" fill="#E5B5C7" font-family="monospace" font-size="16" letter-spacing="5">HELLO, WORLD_</text>
+  <text x="100" y="176" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Suhasini Nanaware</text>
+  <text x="103" y="218" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="21">Full-Stack Developer  ·  Software Engineering</text>
+  <text x="104" y="258" fill="#F8F0F3" fill-opacity=".72" font-family="monospace" font-size="15">BUILD  /  LEARN  /  ITERATE</text>
+  <path d="M104 280 H425" stroke="#701A3D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M104 280 H425" stroke="#E5B5C7" stroke-width="3" stroke-linecap="round" stroke-dasharray="60 261">
+    <animate attributeName="stroke-dashoffset" values="321;0;321" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="1070" y="324" text-anchor="middle" fill="#E5B5C7" fill-opacity=".65" font-family="monospace" font-size="12">PROFILE / 2026</text>
+</svg>
