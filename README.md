@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/suhasini-hero.svg" alt="Suhasini Nanaware — Full-Stack Developer" width="100%"/>
+<img src="https://github.com/SuhasiniNanaware/SuhasiniNanaware/blob/main/assests/suhasini-hero.svg" alt="Suhasini Nanaware — Full-Stack Developer" width="100%"/>
 
 <br/>
 
